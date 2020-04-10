@@ -1,5 +1,12 @@
 # Kubernetes Native tools
 
+
+![Kube architecture][logo]
+
+[logo]: https://github.com/ramiljoaquin/HelloKubernetes_AKS/blob/master/assets/KubeArchitecture.png "Kubernetes architecture"
+
+
+
 These are all the resource links used for all of the chapters in Kubernetes- Native tools.
 
 ### Chapter  02_01
