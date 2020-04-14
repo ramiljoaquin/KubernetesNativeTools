@@ -6,6 +6,29 @@
 [logo]: https://github.com/ramiljoaquin/HelloKubernetes_AKS/blob/master/assets/KubeArchitecture.png "Kubernetes architecture"
 
 
+Do you want to get a handle on how to use the native tools provided by Kubernetes? In this course, bolster your existing understanding of Kubernetes by learning more about the tools provided by the ecosystem. Discover how to use these tools to build, manage, debug, and scale applications better in Kubernetes. Instructor Karthik Gaekwad shares strategies for mastering kubectl; running Kubernetes using Minikube, kubeadm, and kops; and more.
+
+## Learning objectives
+Strategies for creating and interacting with objects
+Searching, sorting, and filtering applications
+Deleting strategies for applications
+Running Kubernetes using Minikube, kubeadm, and kops
+Using the Kubernetes dashboard
+Federation and kubefed
+Skills covered in this course
+Application DevelopmentKubernetes
+Viewers of this course
+
+
+## What they do
+Software Developer Software Developer Technology Manager Technology Manager Information Technology System Administrator
+Where they work
+IBM IBM Tata Consultancy Services Tata Consultancy Services Walmart Walmart Cognizant Cognizant AT&T AT&T
+Instructor
+Karthik Gaekwad
+Karthik Gaekwad
+Principal Oracle Engineer
+
 
 These are all the resource links used for all of the chapters in Kubernetes- Native tools.
 
